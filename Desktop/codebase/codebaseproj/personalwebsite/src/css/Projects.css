@@ -1,0 +1,87 @@
+.content4 {
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    height: 160vh;
+}
+  
+.projects-content {
+    display: flex;
+    align-items:center;
+    flex-direction: column;
+}
+
+.codeTitle {
+    margin-top: -4.5vh;
+    margin-left: 8vw;
+    color: #9BC972;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.designTitle {
+    margin-top: -4.5vh;
+    margin-right: 8vw;
+    color: #9BC972;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.greenbox {
+    background-color: #f4fced;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 25vh;
+    margin-top: 2vh;
+
+}
+
+.greenbox2 {
+    background-color: #f4fced;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 93vh;
+    margin-top: 20vh;
+}
+
+.green-projects {
+    color: #9BC972;
+}
+
+.projects-title {
+    display: flex;
+    flex-direction: row;
+}
+
+.titletext {
+    font-family: cream;
+    font-size: 24px;
+}
+
+.star {
+    height: 4vh;
+    width: auto;
+    padding-right: 1vw;
+    padding-left: 1vw;
+    margin-top: 2.5vh;
+}
+
+.codeCards {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.cardspacing {
+    margin-left: 3vw;
+    margin-right: 3vw;
+}
+
+.sliderContainer {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}

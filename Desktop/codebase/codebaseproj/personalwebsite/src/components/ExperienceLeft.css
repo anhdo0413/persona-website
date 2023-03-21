@@ -1,0 +1,54 @@
+.contentL {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 1.5vh;
+    margin-top: 1.5vh;
+
+}
+
+.titleboxL {
+    display: flex;
+    justify-content: left;
+    margin-left: 7vw;
+    margin-bottom: -.3vh;
+}
+
+.postitleL {
+    font-family: cream;
+    font-size: 20px;
+}
+
+
+.bodybgL {
+    background-color: rgb(255, 255, 255);
+    border-radius: 3vh;
+    padding: 0 4px;
+    width: 67vw;
+    height: 20vh;
+    display: flex;
+    align-items: center;
+    margin-top: -1vh;
+}
+
+.bodyL {
+    height: 19vh;
+    margin-right: 4vw;
+    margin-top: 1vw;
+}
+
+.imgL {
+    height: 35vh;
+    margin-left: -17vh;
+    width: auto;
+}
+
+.linkStyling {
+    color: #7DB6EC;
+
+    text-decoration: None;
+}
+
+.linkStyling:hover {
+    color: #467caf;
+}

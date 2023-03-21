@@ -1,0 +1,92 @@
+html {
+  scroll-behavior: smooth;
+}
+.content1 {
+  padding: 5vh 20vh;
+  height: 100vh;
+  background-image: url("assets/bg.png");
+  background-size:     cover; 
+  background-repeat:   no-repeat;
+  background-position: center center;    
+}
+
+.home-about {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  margin-top: 5vh;
+}
+
+.home-intro {
+  width: 75%;
+}
+
+.intro-sub {
+  margin-left: 10vh;
+}
+
+.name {
+  height: 20vh;
+  width: auto;
+
+}
+
+.viet-name {
+  height: 15vh;
+  width: auto;
+  margin-left: 23vh;
+  margin-top: -10vh;
+}
+
+.me-picture {
+  height: 40vh;
+  width: auto;
+  margin-left: 5vh;
+  margin-top: 15vh;
+}
+
+
+h2 {
+  font-family: cream;
+  font-size: 24px;
+}
+
+h3 {
+  font-family: creamlight;
+  font-size: 18px;
+}
+
+.name-main {
+  font-size: 40px;
+}
+
+.pink-intro {
+  color: #E6809C;
+}
+
+.green-intro {
+  color: #9BC972;
+}
+
+.grey-intro {
+  color: #C3C3C3;
+}
+
+.yellow-intro {
+  color: #ECC756;
+}
+
+.anchor {
+  display: block;
+  position: relative;
+  visibility: hidden;
+  top: -10vh;
+}
+
+.anchor-home {
+  display: block;
+  position: relative;
+  visibility: hidden;
+  top: -20vh;
+}

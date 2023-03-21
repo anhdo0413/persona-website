@@ -1,0 +1,108 @@
+.about-header {
+    font-family: cream;
+}
+
+.content2 {
+    padding: 0vh;
+    height: 100vh;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+
+}
+
+.about-content {
+    background-color: #fef6f6;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10vh;
+    width: 100vw;
+    height: 62vh;
+}
+
+.about1 {
+    display: flex;
+    align-items:flex-start;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.aboutimg1 {
+    height: 42vh;
+    width:auto;
+    margin-top: -6vh;
+
+}
+
+.about1-text {
+    padding-left: 5vw;
+    width: 60vw;
+    margin-top: -7vh;
+}
+
+.about1-body {
+    margin-top: -3vh;
+}
+
+.about-header {
+    font-family: katherina ;
+    color: #E6809C;
+    font-size: 32px;
+}
+
+.about-subheader {
+    color: #E6809C;
+    margin-top: 3vh;
+}
+
+.about2 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: -6vw;
+}
+
+.aboutimg2 {
+    height: 36vh;
+    width:auto;
+    padding-left: 16vw;
+    margin-top: 2svw;
+}
+
+.about2-text {
+    padding-left: 5vw;
+    width: 50vw;
+}
+
+.about-subheaderbox {
+    background-color: rgb(255, 255, 255);
+    border-radius: 1vh;
+    padding: 0 4px;
+    width: 44vw;
+    height: 25vh;
+    margin-top: -5vh;
+    margin-left: -3vw;
+    display: flex;
+    align-items: center;
+
+}
+
+.lovelist li{
+    list-style: none;
+    margin-top: -1vh;
+	background-image: url("../assets/bulletpt.png");
+	background-repeat: no-repeat;
+	background-position: left top;
+	background-size: 2vh;
+}
+
+.flowercontain {
+    display: flex;
+    justify-content:flex-end;
+}
+.flower {
+    height: 23vh;
+    width: auto;
+    margin-top: -15vh;
+    margin-right: 12vh;
+}
