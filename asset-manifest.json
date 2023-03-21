@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec8008e9.css",
+    "main.js": "/static/js/main.536b7c83.js",
+    "static/media/design3.png": "/static/media/design3.45ba64adb70531f2f033.png",
+    "static/media/design1.png": "/static/media/design1.0fd12d1a081ec9e91cee.png",
+    "static/media/design6.png": "/static/media/design6.d19ec9950f2fd3665272.png",
+    "static/media/design7.png": "/static/media/design7.36f7c04801204990eb2b.png",
+    "static/media/contactbg.png": "/static/media/contactbg.d4c458c7a18d4373233a.png",
+    "static/media/design8.png": "/static/media/design8.609269501c2174d9f7fd.png",
+    "static/media/katherina.ttf": "/static/media/katherina.53a312f88b2132a7bc9f.ttf",
+    "static/media/design4.png": "/static/media/design4.1fb0682f16cdbbb78b9d.png",
+    "static/media/about1.png": "/static/media/about1.4d6656f56af765096956.png",
+    "static/media/design2.png": "/static/media/design2.c6694b03152ff0e39717.png",
+    "static/media/about2.png": "/static/media/about2.577dc1159739f01b746a.png",
+    "static/media/design9.png": "/static/media/design9.af112bb4bc96321036a5.png",
+    "static/media/bg.png": "/static/media/bg.c5479a24b4ccfc3da4e1.png",
+    "static/media/codebaseexperience.png": "/static/media/codebaseexperience.74b484de3666ddab20c6.png",
+    "static/media/codebase.png": "/static/media/codebase.a115aeec5da6168bebcb.png",
+    "static/media/diversatech.png": "/static/media/diversatech.2a74263ab459bd14b440.png",
+    "static/media/keyclub.png": "/static/media/keyclub.ca685cd0b9bbd7e9b7bf.png",
+    "static/media/cream-light.ttf": "/static/media/cream-light.e32df29c4e05f6559988.ttf",
+    "static/media/code1_front.png": "/static/media/code1_front.4357047a4b8f1a73082c.png",
+    "static/media/code3_front.png": "/static/media/code3_front.756b9417b5bc766bff81.png",
+    "static/media/code2_front.png": "/static/media/code2_front.7c89c3642d3f93586fad.png",
+    "static/media/Louis George Cafe Light.ttf": "/static/media/Louis George Cafe Light.39945fcd312e86adc356.ttf",
+    "static/media/me2.png": "/static/media/me2.e4a386d50533c80e72e1.png",
+    "static/media/Louis George Cafe.ttf": "/static/media/Louis George Cafe.eacd87871e9a39013626.ttf",
+    "static/media/cream-DEMO.ttf": "/static/media/cream-DEMO.b1abd7213807deb49cfd.ttf",
+    "static/media/code1_back.png": "/static/media/code1_back.707a1c8748ea78d79537.png",
+    "static/media/name.png": "/static/media/name.10a4ef7df215a92a4007.png",
+    "static/media/vietname.png": "/static/media/vietname.665ee2332fd827debf22.png",
+    "static/media/flower.png": "/static/media/flower.beee70fa009c31e72bc5.png",
+    "index.html": "/index.html",
+    "main.ec8008e9.css.map": "/static/css/main.ec8008e9.css.map",
+    "main.536b7c83.js.map": "/static/js/main.536b7c83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec8008e9.css",
+    "static/js/main.536b7c83.js"
+  ]
+}
